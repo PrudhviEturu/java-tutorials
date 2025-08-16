@@ -1,4 +1,22 @@
-/bin/
+# Eclipse
 .project
 .classpath
 .settings/
+# Build outputs
+bin/
+target/
+out/
+# OS
+.DS_Store
+Thumbs.db
+# IDEs
+.idea/
+*.iml
+# Logs & temp
+*.log
+*.tmp
+# Gradle
+.gradle/
+build/
+# Maven
+.mvn/

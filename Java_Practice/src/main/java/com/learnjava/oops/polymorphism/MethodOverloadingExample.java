@@ -16,7 +16,6 @@ public class MethodOverloadingExample {
 		MathUtil mathUtil = new MathUtil();
 		System.out.println(mathUtil.add(1, 2));
 		System.out.println(mathUtil.add(1.0, 2.0));
-
 	}
 
 }
